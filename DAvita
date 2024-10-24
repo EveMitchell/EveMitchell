@@ -1,0 +1,9 @@
+graph TD
+    A[Daily Inspections] --> B[Weekly Reports]
+    B --> C[Monthly Reviews]
+    C --> D[Quarterly Business Reviews]
+    D --> E[Annual Performance Assessment]
+Weekly: Service Quality Checks
+Monthly: Scorecard Reviews
+Quarterly: Business Reviews
+Annual: Contract Performance Review
